@@ -1,0 +1,14 @@
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\Task Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\Task Day7.AssemblyInfoInputs.cache
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\Task Day7.AssemblyInfo.cs
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\Task Day7.csproj.CoreCompileInputs.cache
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\bin\Debug\net8.0\Task Day7.exe
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\bin\Debug\net8.0\Task Day7.deps.json
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\bin\Debug\net8.0\Task Day7.runtimeconfig.json
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\bin\Debug\net8.0\Task Day7.dll
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\bin\Debug\net8.0\Task Day7.pdb
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\Task Day7.dll
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\refint\Task Day7.dll
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\Task Day7.pdb
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\Task Day7.genruntimeconfig.cache
+C:\Users\Alhefnawy\source\Era Soft Course\Day 07\Challenge 1\Task Day7\obj\Debug\net8.0\ref\Task Day7.dll
